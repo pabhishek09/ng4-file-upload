@@ -1,0 +1,6 @@
+export enum FileVerificationStatus {
+    MAX_FILES_COUNT_EXCEED,
+    MAX_EACH_FILE_SIZE_EXCEED,
+    MAX_TOTAL_FILE_SIZE_EXCEED,
+    VERIFIED
+}
